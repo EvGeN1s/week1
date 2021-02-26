@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*":{
-      "X-Author": "efedoseev"      
+      "X-Author": "efedoseev",
+      "Access-Control-Allow-Origin": "*"
     }
   }  
 }
